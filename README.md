@@ -37,3 +37,10 @@ Durante o desenvolvimento, foi possível:
 ## 🧩 Conclusão
 
 Este projeto serviu como **exercício prático para entender o poder e a flexibilidade do CSS Grid**
+
+---
+
+## ✨ Autor
+
+**Lucas Padilha**  
+Projeto criado com fins de estudo e prática de **HTML e CSS**, desenvolvido durante o **curso da Rocketseat**, com foco em **layouts responsivos utilizando CSS Grid**.
